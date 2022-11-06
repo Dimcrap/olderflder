@@ -1,1 +1,1 @@
-git Comment
+const shopbutton=document.querySelector('.btn');
