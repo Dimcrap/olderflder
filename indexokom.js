@@ -4,3 +4,7 @@ console.log('namaste');
 
 
 const card= document.querySelector('.card')
+
+function price(params) {
+return(params+card)    
+}
